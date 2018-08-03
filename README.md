@@ -3,3 +3,4 @@
 - My name is Xuntian Wang
 - I'm from China
 - I'd love to learn some Python
+- I wish I can have more friends
