@@ -1,0 +1,72 @@
+[33mcommit 96b095b786de6d961af231788ec4432cc059dcea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: POPJoey <xuntian@outlook.com>
+Date:   Mon Aug 6 10:09:09 2018 +0800
+
+    This is my try to use vim
+
+[33mcommit 466cb7ab7520687c2ec7970c57b072c2b51e2487[m
+Author: POPJoey <xuntian@outlook.com>
+Date:   Mon Aug 6 09:50:19 2018 +0800
+
+    Story 1: test repository
+
+[33mcommit 914439ee136819e42d907f8f5e52cd3373942cd7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 05589af a4e9e9a
+Author: Joey Wang <41977908+POPJoey@users.noreply.github.com>
+Date:   Fri Aug 3 15:26:00 2018 +0800
+
+    Merge pull request #4 from POPJoey/readme-edits
+    
+    Add new information
+
+[33mcommit 05589af75ff90e157dc88c72c0081b4f3ddbdb0a[m
+Author: POPJoey <41977908+POPJoey@users.noreply.github.com>
+Date:   Fri Aug 3 14:59:22 2018 +0800
+
+    Add new test MD file
+
+[33mcommit a4e9e9ae5994e81f32d2f39950fdff51df70bc5a[m[33m ([m[1;31morigin/readme-edits[m[33m)[m
+Author: POPJoey <41977908+POPJoey@users.noreply.github.com>
+Date:   Fri Aug 3 14:43:26 2018 +0800
+
+    Add new information
+    
+    Add new information
+
+[33mcommit 61ae520c15b05c91cdfc74ec8d3fcd6caa095f99[m[33m ([m[1;31morigin/add-index-page[m[33m)[m
+Merge: c7d498a d04f312
+Author: Joey Wang <41977908+POPJoey@users.noreply.github.com>
+Date:   Thu Aug 2 16:04:51 2018 +0800
+
+    Merge pull request #3 from POPJoey/popjoey-china
+    
+    Adding POPJoey's Coordinate.
+
+[33mcommit d04f312835fb94df4abbd114dd243a3207a0bdf0[m
+Author: Joey Wang <41977908+POPJoey@users.noreply.github.com>
+Date:   Thu Aug 2 14:29:17 2018 +0800
+
+    Adding POPJoey's Coordinate.
+
+[33mcommit c7d498a731db21a266c3e4ac4e8d3f14d2f9bf25[m
+Merge: caedf00 c4961f5
+Author: POPJoey <41977908+POPJoey@users.noreply.github.com>
+Date:   Wed Aug 1 14:58:13 2018 +0800
+
+    Merge pull request #1 from POPJoey/readme-edits
+    
+    Update information
+
+[33mcommit c4961f51bd137f7307f442dc4f114cf78318098f[m
+Author: POPJoey <41977908+POPJoey@users.noreply.github.com>
+Date:   Wed Aug 1 14:18:54 2018 +0800
+
+    Update information
+    
+    Added extra information about myself
+
+[33mcommit caedf0058598aeafe5c14e6f87cc6ee3190bad8d[m
+Author: POPJoey <41977908+POPJoey@users.noreply.github.com>
+Date:   Wed Aug 1 14:08:26 2018 +0800
+
+    Initial commit
